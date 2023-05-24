@@ -1,0 +1,16 @@
+#Ignoring the data folder except for the folder structure
+data/**/*.*
+!data/**/.gitkeep
+
+#Ignoring the writeups, results, etc except for the folder structure
+interns/**/*.*
+!interns/**/.gitkeep
+docs/**/*.*
+!docs/**/.gitkeep
+
+
+#Ignoring the pycache, venv and vscode cache
+.vscode
+.venv
+**/__pycache__
+
