@@ -12,8 +12,9 @@ raw_data_path= dir_path.joinpath("data/raw")
 interim_data_path= dir_path.joinpath("data/interim/ac_mapped")
 external_data_path= dir_path.joinpath("data/external")
 
-pc_mapper_json=interim_data_path.joinpath("pc_mapper.json")
-ac_mapper_json=interim_data_path.joinpath("ac_mapper.json")
+pc_mapper_json=dir_path.joinpath("src","pc_mapper.json")
+ac_mapper_json=dir_path.joinpath("src","ac_mapper.json")
+
 
 final_file=interim_data_path.joinpath("ac_map.shp")
 
