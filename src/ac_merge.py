@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import geopandas as gpd
 from pathlib import Path
-from fuzzywuzzy import process
 import json
 
 
@@ -18,6 +17,8 @@ ac_mapper_json=dir_path.joinpath("src","ac_mapper.json")
 
 if not interim_data_path.exists():
     interim_data_path.mkdir(parents=True)
+
+final_file=interim_data_path.joinpath("final_map.shp")
 
 
 #reading in the shape file
@@ -84,56 +85,47 @@ df.columns=col_names
 for col in ['state', 'parliamentary constituency','assembly constituency']:
     df[col]=df[col].str.lower().str.strip().str.replace(" ", "_")
 
+## Creating pc id
 df['pc_id']=df['state']+"_"+df['parliamentary constituency']
 
 with(open(str(pc_mapper_json), "r")) as in_file:
     pc_map=dict(json.load(in_file))
 
 df['pc_id']=df['pc_id'].replace(pc_map)  
+
+##Creating ac id
 df['ac_id']=df['pc_id']+"_"+df['assembly constituency']
+
+with(open(str(ac_mapper_json), "r")) as in_file:
+    ac_map=dict(json.load(in_file))
+
+df['ac_id']=df['ac_id'].replace(ac_map)
+df.drop(['pc_id', 'date'], axis=1, inplace=True)
 
 # df['dups']=df.duplicated(['ac_id'], keep=False)
 # print(df[df['dups']])
 
 
-df_ac_list=df['ac_id'].unique()
 
-# #merging before fuzzy match
+#merging data
+merged=pd.merge(
+    ac_shp,
+    df,
+    on='ac_id',
+    how='outer',
+    validate='1:m',
+    # indicator=True
 
-# merged=pd.merge(
-#     ac_shp,
-#     df,
-#     on='ac_id',
-#     how='outer',
-#     validate='1:1',
-
-# )
-
-
-# fuzzy matching AC
-ac_match=[process.extractOne(i, ac_shp_ac_list)
-        for i in df_ac_list]
-
-ac_match = pd.DataFrame(ac_match, columns=["match", "score"])
-
-mapper_df_ac = pd.concat(
-    [pd.Series(df_ac_list), ac_match],
-    axis=1,
-    ignore_index=True,
-    names=["original", "match", "score"],
 )
 
-# # mapper_df = mapper_df[mapper_df[2] >= ]
+# print(merged['_merge'].value_counts())
+# print(merged)
+merged=gpd.GeoDataFrame(merged)
+
+print(merged)
 
 
-# creating a dictionary for fuzzy mapper
-ac_dict = dict(zip(mapper_df_ac[0], mapper_df_ac[1]))
+merged.to_file(str(final_file), driver='ESRI Shapefile')
 
-print(mapper_df_ac[mapper_df_ac[2] < 90]) # this threshhold has been manually verified. Anything less than 70% is wrong.
-
-# print(ac_dict)
-
-with open(str(ac_mapper_json), "w") as out_file:
-    json.dump(ac_dict, out_file)
-
+# merged.to_csv(final_file, index=False)
 

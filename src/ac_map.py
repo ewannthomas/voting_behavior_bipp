@@ -118,49 +118,7 @@ with open(str(pc_mapper_json), "w") as out_file:
 
 
 
-# fuzzy matching AC
-# ac_match=[process.extractOne(i, ac_shp_ac_list)
-#         for i in df_ac_list]
-
-# ac_match = pd.DataFrame(ac_match, columns=["match", "score"])
-
-# mapper_df_ac = pd.concat(
-#     [pd.Series(df_ac_list), ac_match],
-#     axis=1,
-#     ignore_index=True,
-#     names=["original", "match", "score"],
-# )
-
-# # # mapper_df = mapper_df[mapper_df[2] >= 90]
-
-
-# # creating a dictionary for fuzzy mapper
-# ac_dict = dict(zip(mapper_df_ac[0], mapper_df_ac[1]))
-
-# print(ac_dict)
 
 
 
 
-
-# # applying the mapper dictionary on the original processed state file to correct for fuzzy matched names
-# master_df["parliamentary constituency "] = master_df["parliamentary constituency "].replace(mapper_dict)
-# master_df['dups']=master_df.duplicated(['state', 'parliamentary constituency '], keep=False)
-# print(master_df[master_df['dups']==True])
-# master_df.drop_duplicates(['state', 'parliamentary constituency '], inplace=True)
-
-
-
-# merged=pd.merge(
-#     ac_shp,
-#     master_df,
-#     left_on=['ST_NAME', 'PC_NAME'],
-#     right_on=['state', 'parliamentary constituency '],
-#     how='outer',
-#     validate='1:1',
-
-# )
-
-# merged=gpd.GeoDataFrame(merged)
-
-# merged.to_file(str(final_file), driver='ESRI Shapefile')
