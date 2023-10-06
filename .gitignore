@@ -4,7 +4,6 @@ data/**/*.*
 
 #Ignoring the writeups, results, etc except for the folder structure
 interns/**/*.*
-!interns/**/.gitkeep
 docs/**/*.*
 !docs/**/.gitkeep
 
