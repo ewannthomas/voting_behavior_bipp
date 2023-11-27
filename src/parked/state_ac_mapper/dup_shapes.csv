@@ -1,0 +1,141 @@
+fid,objectid,st_code,st_name,dt_code,dist_name,ac_no,ac_name,pc_no,pc_name,pc_id,status,shape_leng,shape_area,id
+62,14,18,assam,14,TINSUKIA,121,chabua,14,LAKHIMPUR,1814,Pre delimitation,1.144644591,0.036372707,assamchabua
+65,14,18,assam,15,DIBRUGARH,121,chabua,14,LAKHIMPUR,1814,Pre delimitation,0.721738514,0.020113218,assamchabua
+103,5,18,assam,1,KOKRAJHAR,31,sidli,5,KOKRAJHAR,1805,Pre delimitation,1.394043773,0.061649661,assamsidli
+111,5,18,assam,5,BARPETA,63,chapaguri,5,KOKRAJHAR,1805,Pre delimitation,0.668559777,0.028061177,assamchapaguri
+112,5,18,assam,7,NALBARI,63,chapaguri,5,KOKRAJHAR,1805,Pre delimitation,0.889545684,0.024565177,assamchapaguri
+115,5,18,assam,1,KOKRAJHAR,33,bijni,5,KOKRAJHAR,1805,Pre delimitation,0.936460464,0.043859947,assambijni
+124,6,18,assam,5,BARPETA,42,patacharkuchi,6,BARPETA,1806,Pre delimitation,0.816234319,0.022475597,assampatacharkuchi
+126,5,18,assam,4,BONGAIGAON,33,bijni,5,KOKRAJHAR,1805,Pre delimitation,0.921375848,0.02979507,assambijni
+132,5,18,assam,4,BONGAIGAON,31,sidli,5,KOKRAJHAR,1805,Pre delimitation,0.71401101,0.014292762,assamsidli
+136,6,18,assam,7,NALBARI,42,patacharkuchi,6,BARPETA,1806,Pre delimitation,0.381939324,0.00578429,assampatacharkuchi
+144,5,18,assam,1,KOKRAJHAR,31,sidli,5,KOKRAJHAR,1805,Pre delimitation,0.39717941,0.006875242,assamsidli
+182,1,18,assam,23,HAILAKANDI,8,algapur,1,KARIMGANJ,1801,Pre delimitation,1.053070033,0.025669723,assamalgapur
+186,1,18,assam,21,CACHAR,8,algapur,1,KARIMGANJ,1801,Pre delimitation,0.514177586,0.012420207,assamalgapur
+193,0,1,jammu_&_kashmir,0, ,0,,0, ,0,Pre delimitation,25.39118432,7.957655348,jammu_&_kashmir
+194,0,1,jammu_&_kashmir,0, ,0,,0, ,0,Pre delimitation,9.96900963,3.277723506,jammu_&_kashmir
+218,2,1,jammu_&_kashmir,3,SRINAGAR,25,batamaloo,2,SRINAGAR,0,Pre delimitation,0.58962017,0.006124511,jammu_&_kashmirbatamaloo
+219,2,1,jammu_&_kashmir,3,SRINAGAR,25,batamaloo,2,SRINAGAR,0,Pre delimitation,0.238904878,0.001751891,jammu_&_kashmirbatamaloo
+223,2,1,jammu_&_kashmir,3,SRINAGAR,23,amira_kada,2,SRINAGAR,0,Pre delimitation,0.545529212,0.006318476,jammu_&_kashmiramira_kada
+224,2,1,jammu_&_kashmir,4,BADGAM,28,beerwah,2,SRINAGAR,0,Pre delimitation,1.12799627,0.019540961,jammu_&_kashmirbeerwah
+225,2,1,jammu_&_kashmir,3,SRINAGAR,25,batamaloo,2,SRINAGAR,0,Pre delimitation,0.072959052,0.00021753,jammu_&_kashmirbatamaloo
+229,2,1,jammu_&_kashmir,3,SRINAGAR,23,amira_kada,2,SRINAGAR,0,Pre delimitation,0.05666679,0.000146691,jammu_&_kashmiramira_kada
+233,2,1,jammu_&_kashmir,4,BADGAM,28,beerwah,2,SRINAGAR,0,Pre delimitation,0.390194897,0.004508331,jammu_&_kashmirbeerwah
+242,3,1,jammu_&_kashmir,6,ANANTNAG,39,hom_shali,3,ANANTANAG,0,Pre delimitation,0.511202155,0.003374711,jammu_&_kashmirhom_shali
+246,3,1,jammu_&_kashmir,6,ANANTNAG,39,hom_shali,3,ANANTANAG,0,Pre delimitation,0.188326077,0.00082868,jammu_&_kashmirhom_shali
+247,3,1,jammu_&_kashmir,6,ANANTNAG,39,hom_shali,3,ANANTANAG,0,Pre delimitation,0.498356742,0.005866822,jammu_&_kashmirhom_shali
+249,3,1,jammu_&_kashmir,6,ANANTNAG,40,anantnag,3,ANANTANAG,0,Pre delimitation,0.128379667,0.000669846,jammu_&_kashmiranantnag
+250,3,1,jammu_&_kashmir,6,ANANTNAG,40,anantnag,3,ANANTANAG,0,Pre delimitation,0.847159227,0.008612473,jammu_&_kashmiranantnag
+254,5,1,jammu_&_kashmir,9,DODA,52,inderwal,5,UDHAMPUR,0,Pre delimitation,2.814394454,0.140151317,jammu_&_kashmirinderwal
+256,3,1,jammu_&_kashmir,6,ANANTNAG,40,anantnag,3,ANANTANAG,0,Pre delimitation,0.03585373,7.55905e-05,jammu_&_kashmiranantnag
+262,5,1,jammu_&_kashmir,9,DODA,55,ramban,5,UDHAMPUR,0,Pre delimitation,1.265629643,0.047094621,jammu_&_kashmirramban
+265,5,1,jammu_&_kashmir,9,DODA,55,ramban,5,UDHAMPUR,0,Pre delimitation,1.250780686,0.059392874,jammu_&_kashmirramban
+268,5,1,jammu_&_kashmir,10,UDHAMPUR,58,reasi,5,UDHAMPUR,0,Pre delimitation,2.30843326,0.072398925,jammu_&_kashmirreasi
+269,5,1,jammu_&_kashmir,10,UDHAMPUR,58,reasi,5,UDHAMPUR,0,Pre delimitation,1.079156394,0.018032104,jammu_&_kashmirreasi
+270,5,1,jammu_&_kashmir,10,UDHAMPUR,60,udhampur,5,UDHAMPUR,0,Pre delimitation,0.209438576,0.001907405,jammu_&_kashmirudhampur
+273,5,1,jammu_&_kashmir,9,DODA,52,inderwal,5,UDHAMPUR,0,Pre delimitation,1.127054848,0.012304652,jammu_&_kashmirinderwal
+275,5,1,jammu_&_kashmir,10,UDHAMPUR,60,udhampur,5,UDHAMPUR,0,Pre delimitation,1.563469292,0.034178641,jammu_&_kashmirudhampur
+279,5,1,jammu_&_kashmir,10,UDHAMPUR,62,ram_nagar,5,UDHAMPUR,0,Pre delimitation,2.110808275,0.10525465,jammu_&_kashmirram_nagar
+284,6,1,jammu_&_kashmir,13,JAMMU,68,samba,6,JAMMU,0,Pre delimitation,1.499455351,0.043716332,jammu_&_kashmirsamba
+285,6,1,jammu_&_kashmir,13,JAMMU,69,vijaypur,6,JAMMU,0,Pre delimitation,0.359820248,0.004336233,jammu_&_kashmirvijaypur
+287,5,1,jammu_&_kashmir,10,UDHAMPUR,62,ram_nagar,5,UDHAMPUR,0,Pre delimitation,0.265773535,0.00233903,jammu_&_kashmirram_nagar
+288,6,1,jammu_&_kashmir,13,JAMMU,68,samba,6,JAMMU,0,Pre delimitation,0.181955986,0.001441221,jammu_&_kashmirsamba
+289,6,1,jammu_&_kashmir,13,JAMMU,69,vijaypur,6,JAMMU,0,Pre delimitation,1.239762677,0.028981334,jammu_&_kashmirvijaypur
+290,5,1,jammu_&_kashmir,10,UDHAMPUR,62,ram_nagar,5,UDHAMPUR,0,Pre delimitation,0.161456584,0.000760754,jammu_&_kashmirram_nagar
+296,5,1,jammu_&_kashmir,13,JAMMU,67,hira_nagar,5,UDHAMPUR,0,Pre delimitation,0.658709747,0.01779214,jammu_&_kashmirhira_nagar
+298,5,1,jammu_&_kashmir,14,KATHUA,67,hira_nagar,5,UDHAMPUR,0,Pre delimitation,0.217377198,0.001477119,jammu_&_kashmirhira_nagar
+299,5,1,jammu_&_kashmir,14,KATHUA,67,hira_nagar,5,UDHAMPUR,0,Pre delimitation,0.714285279,0.020391305,jammu_&_kashmirhira_nagar
+375,13,32,kerala,9,IDUKKI,87,kothamangalam,13,IDUKKI,3213, ,1.408018505,0.053279203,keralakothamangalam
+381,13,32,kerala,8,ERNAKULAM,87,kothamangalam,13,IDUKKI,3213, ,0.803281893,0.021966705,keralakothamangalam
+497,11,33,tamil_nadu,4,VELLORE,50,tiruppattur,11,TIRUVANNAMALAI,3311, ,1.772449704,0.049122169,tamil_nadutiruppattur
+499,12,33,tamil_nadu,6,TIRUVANNAMALAI,69,vandavasi_(sc),12,ARANI,3312, ,1.537844949,0.061307303,tamil_naduvandavasi_(sc)
+504,12,33,tamil_nadu,7,VILUPPURAM,70,vandavasi_(sc),12,ARANI,3312, ,1.514355591,0.060154618,tamil_naduvandavasi_(sc)
+594,24,33,tamil_nadu,15,TIRUCHIRAPPALLI,141,tiruchirappalli,24,TIRUCHIRAPPALLI,3324, ,0.257680482,0.002261924,tamil_nadutiruchirappalli
+597,24,33,tamil_nadu,15,TIRUCHIRAPPALLI,140,tiruchirappalli,24,TIRUCHIRAPPALLI,3324, ,0.334063208,0.003036648,tamil_nadutiruchirappalli
+620,31,33,tamil_nadu,23,SIVAGANGA,185,tiruppattur,31,SIVAGANGA,3331, ,2.440279185,0.087062245,tamil_nadutiruppattur
+1191,0,28,andhra_pradesh,16,KRISHNA,0,,0, ,2800, ,0.551481324,0.00071952,andhra_pradesh
+1245,0,28,andhra_pradesh,19,NELLORE,0,,0, ,2800, ,0.804863645,0.001718132,andhra_pradesh
+1289,1,12,arunachal_pradesh,6,UPPER SUBANSIRI,25,raga,1,ARUNACHAL WEST,1201,Pre delimitation,0.955647231,0.031389334,arunachal_pradeshraga
+1292,1,12,arunachal_pradesh,5,LOWER SUBANSIRI,25,raga,1,ARUNACHAL WEST,1201,Pre delimitation,1.948135897,0.105656665,arunachal_pradeshraga
+1363,3,10,bihar,2,PURBA CHAMPARAN,17,pipra,3,PURVI CHAMPARAN,1003, ,2.162835877,0.035262787,biharpipra
+1384,8,10,bihar,6,SUPAUL *,42,pipra,8,SUPAUL,1008, ,1.554571291,0.044106716,biharpipra
+1769,0,24,gujarat,1,KACHCHH,0,,0, ,2400, ,25.14397071,1.906815885,gujarat
+1790,0,24,gujarat,1,KACHCHH,0,,0, ,2400, ,1.909250491,0.047865828,gujarat
+1798,0,24,gujarat,1,KACHCHH,0,,0, ,2400, ,0.208062634,0.001711449,gujarat
+1811,0,24,gujarat,1,KACHCHH,0,,0, ,2400, ,5.894204585,0.329001241,gujarat
+1812,6,24,gujarat,6,GANDHINAGAR,38,kalol,6,GANDHINAGAR,2406, ,1.476187305,0.032833839,gujaratkalol
+1822,0,24,gujarat,10,JAMNAGAR,0,,0, ,2400, ,5.827817338,0.341517093,gujarat
+1852,18,24,gujarat,17,PANCH MAHALS,127,kalol,18,PANCHMAHAL,2418, ,1.706971287,0.063986397,gujaratkalol
+1871,0,24,gujarat,7,AHMADABAD,0,,0, ,2400, ,1.693489289,0.041811126,gujarat
+1884,0,24,gujarat,21,BHARUCH,0,,0, ,2400, ,5.527429255,0.144174779,gujarat
+1892,0,24,gujarat,14,BHAVNAGAR,0,,0, ,2400, ,2.483017825,0.167207212,gujarat
+1914,0,24,gujarat,22,SURAT,0,,0, ,2400, ,1.472984703,0.035763341,gujarat
+1926,0,24,gujarat,22,SURAT,0,,0, ,2400, ,0.601245263,0.013179786,gujarat
+2100,1,20,jharkhand,9,SAHIBGANJ,2,borio_(st),1,RAJMAHAL (ST),2001,Pre delimitation,1.421616909,0.076931446,jharkhandborio_(st)
+2102,1,20,jharkhand,8,GODDA,2,borio_(st),1,RAJMAHAL (ST),2001,Pre delimitation,0.891246201,0.028084714,jharkhandborio_(st)
+2104,1,20,jharkhand,9,SAHIBGANJ,3,barhait_(st),1,RAJMAHAL (ST),2001,Pre delimitation,1.317680641,0.047649178,jharkhandbarhait_(st)
+2105,1,20,jharkhand,8,GODDA,3,barhait_(st),1,RAJMAHAL (ST),2001,Pre delimitation,1.501820672,0.04854142,jharkhandbarhait_(st)
+2106,1,20,jharkhand,9,SAHIBGANJ,5,pakaur,1,RAJMAHAL (ST),2001,Pre delimitation,0.844098987,0.019730706,jharkhandpakaur
+2107,1,20,jharkhand,10,PAKAUR,4,litipara_(st),1,RAJMAHAL (ST),2001,Pre delimitation,1.581600646,0.074035666,jharkhandlitipara_(st)
+2108,3,20,jharkhand,8,GODDA,16,poreyahat,3,GODDA,2003,Pre delimitation,1.157878492,0.054518456,jharkhandporeyahat
+2110,1,20,jharkhand,10,PAKAUR,5,pakaur,1,RAJMAHAL (ST),2001,Pre delimitation,0.762820968,0.021177919,jharkhandpakaur
+2112,3,20,jharkhand,11,DUMKA,16,poreyahat,3,GODDA,2003,Pre delimitation,0.820385968,0.024487333,jharkhandporeyahat
+2118,3,20,jharkhand,11,DUMKA,12,jarmundi,3,GODDA,2003,Pre delimitation,0.933362887,0.033453821,jharkhandjarmundi
+2125,3,20,jharkhand,7,DEOGHAR,12,jarmundi,3,GODDA,2003,Pre delimitation,0.85810569,0.02871605,jharkhandjarmundi
+2128,5,20,jharkhand,5,KODARMA,20,barkatha,5,KODARMA,2005,Pre delimitation,0.856082967,0.02167148,jharkhandbarkatha
+2130,13,20,jharkhand,2,PALAMU,76,daltonganj,13,PALAMU (SC),2013,Pre delimitation,2.149921166,0.119816052,jharkhanddaltonganj
+2131,2,20,jharkhand,7,DEOGHAR,14,sarath,2,DUMKA (ST),2002,Pre delimitation,1.588137702,0.055964461,jharkhandsarath
+2134,5,20,jharkhand,4,HAZARIBAG,20,barkatha,5,KODARMA,2005,Pre delimitation,1.80119709,0.071314772,jharkhandbarkatha
+2136,6,20,jharkhand,6,GIRIDIH,32,giridih,6,GIRIDIH,2006,Pre delimitation,1.363180674,0.054235374,jharkhandgiridih
+2139,6,20,jharkhand,6,GIRIDIH,33,dumri,6,GIRIDIH,2006,Pre delimitation,1.132223439,0.039196834,jharkhanddumri
+2142,2,20,jharkhand,20,JAMTARA,14,sarath,2,DUMKA (ST),2002,Pre delimitation,0.505149722,0.008808944,jharkhandsarath
+2144,6,20,jharkhand,12,DHANBAD,32,giridih,6,GIRIDIH,2006,Pre delimitation,0.291014757,0.003293387,jharkhandgiridih
+2149,6,20,jharkhand,13,BOKARO,33,dumri,6,GIRIDIH,2006,Pre delimitation,0.981472979,0.033444287,jharkhanddumri
+2156,13,20,jharkhand,1,GARHWA,76,daltonganj,13,PALAMU (SC),2013,Pre delimitation,1.175837296,0.054569271,jharkhanddaltonganj
+2174,11,20,jharkhand,14,RANCHI,59,torpa_(st),11,KHUNTI (ST),2011,Pre delimitation,1.774344458,0.075332408,jharkhandtorpa_(st)
+2176,11,20,jharkhand,16,GUMLA,70,simdega_(st),11,KHUNTI (ST),2011,Pre delimitation,1.170009053,0.051654656,jharkhandsimdega_(st)
+2177,11,20,jharkhand,22,SARAIKELA,57,kharasawan_(st),11,KHUNTI (ST),2011,Pre delimitation,1.840846686,0.071403956,jharkhandkharasawan_(st)
+2182,11,20,jharkhand,21,SIMDEGA,70,simdega_(st),11,KHUNTI (ST),2011,Pre delimitation,2.001234585,0.106766699,jharkhandsimdega_(st)
+2185,11,20,jharkhand,21,SIMDEGA,59,torpa_(st),11,KHUNTI (ST),2011,Pre delimitation,1.085206023,0.044856603,jharkhandtorpa_(st)
+2187,11,20,jharkhand,17,PACHIM SINGHBHUM,57,kharasawan_(st),11,KHUNTI (ST),2011,Pre delimitation,0.627875652,0.01612226,jharkhandkharasawan_(st)
+2193,1,20,jharkhand,11,DUMKA,4,litipara_(st),1,RAJMAHAL (ST),2001,Pre delimitation,0.792543179,0.020249032,jharkhandlitipara_(st)
+2771,0,27,maharashtra,21,THANE,0,,0, ,2700, ,0.436412308,0.00450591,maharashtra
+2782,0,27,maharashtra,21,THANE,0,,0, ,2700, ,0.300318922,0.002210498,maharashtra
+2807,0,27,maharashtra,21,THANE,0,,0, ,2700, ,0.261615988,0.00113058,maharashtra
+2812,0,27,maharashtra,22,MUMBAI (SUBURBAN) *,0,,0, ,2700, ,0.121360667,0.000607064,maharashtra
+2816,0,27,maharashtra,22,MUMBAI (SUBURBAN) *,0,,0, ,2700, ,0.18123195,0.001350221,maharashtra
+2824,0,27,maharashtra,21,THANE,0,,0, ,2700, ,0.539403325,0.005539332,maharashtra
+2828,0,27,maharashtra,22,MUMBAI (SUBURBAN) *,0,,0, ,2700, ,0.231032369,0.002101667,maharashtra
+2839,0,27,maharashtra,22,MUMBAI (SUBURBAN) *,0,,0, ,2700, ,0.117138477,0.000361587,maharashtra
+2846,0,27,maharashtra,22,MUMBAI (SUBURBAN) *,0,,0, ,2700, ,0.218920881,0.002317882,maharashtra
+2850,0,27,maharashtra,22,MUMBAI (SUBURBAN) *,0,,0, ,2700, ,0.141120344,0.000733031,maharashtra
+2851,0,27,maharashtra,23,MUMBAI,0,,0, ,2700, ,0.471018158,0.006729826,maharashtra
+2855,0,27,maharashtra,24,RAIGARH,0,,0, ,2700, ,1.200826494,0.014751218,maharashtra
+2865,0,27,maharashtra,24,RAIGARH,0,,0, ,2700, ,0.4994602,0.005436539,maharashtra
+2868,0,27,maharashtra,24,RAIGARH,0,,0, ,2700, ,0.122169325,0.000502939,maharashtra
+2960,1,14,manipur,7,IMPHAL EAST *,2,heingang,1,INNER MANIPUR,1401,Pre delimitation,0.222028856,0.001341994,manipurheingang
+2970,1,14,manipur,1,SENAPATI,7,andro,1,INNER MANIPUR,1401,Pre delimitation,0.489129234,0.002993254,manipurandro
+2973,1,14,manipur,7,IMPHAL EAST *,7,andro,1,INNER MANIPUR,1401,Pre delimitation,0.431672372,0.003768154,manipurandro
+2980,1,14,manipur,7,IMPHAL EAST *,6,keirao,1,INNER MANIPUR,1401,Pre delimitation,0.254874171,0.002556095,manipurkeirao
+2982,1,14,manipur,5,THOUBAL,22,wangoi,1,INNER MANIPUR,1401,Pre delimitation,0.345493385,0.002845157,manipurwangoi
+2984,1,14,manipur,1,SENAPATI,32,wangkhem,1,INNER MANIPUR,1401,Pre delimitation,0.07822173,0.000335105,manipurwangkhem
+2985,1,14,manipur,4,BISHNUPUR,24,nambol,1,INNER MANIPUR,1401,Pre delimitation,0.159512585,0.001570547,manipurnambol
+2987,1,14,manipur,6,IMPHAL WEST,24,nambol,1,INNER MANIPUR,1401,Pre delimitation,0.318238304,0.002871789,manipurnambol
+2988,1,14,manipur,5,THOUBAL,32,wangkhem,1,INNER MANIPUR,1401,Pre delimitation,0.107327659,0.000280433,manipurwangkhem
+2989,1,14,manipur,5,THOUBAL,24,nambol,1,INNER MANIPUR,1401,Pre delimitation,0.114536104,0.00058323,manipurnambol
+2990,1,14,manipur,5,THOUBAL,7,andro,1,INNER MANIPUR,1401,Pre delimitation,0.049591304,8.48665e-05,manipurandro
+2991,1,14,manipur,5,THOUBAL,6,keirao,1,INNER MANIPUR,1401,Pre delimitation,0.191882859,0.000907471,manipurkeirao
+2995,1,14,manipur,6,IMPHAL WEST,22,wangoi,1,INNER MANIPUR,1401,Pre delimitation,0.217888803,0.001778878,manipurwangoi
+3013,1,14,manipur,6,IMPHAL WEST,2,heingang,1,INNER MANIPUR,1401,Pre delimitation,0.258365243,0.001249497,manipurheingang
+3429,2,8,rajasthan,4,CHURU,17,dungargarh,2,BIKANER (SC),802, ,2.541722913,0.272024532,rajasthandungargarh
+3445,2,8,rajasthan,3,BIKANER,17,dungargarh,2,BIKANER (SC),802, ,1.306561378,0.060667014,rajasthandungargarh
+3610,0,11,sikkim,1,NORTH,0,,0, ,1100, ,4.782735937,0.352691072,sikkim
+3612,0,11,sikkim,2,WEST,0,,0, ,1100, ,2.254498198,0.062781533,sikkim
+3614,0,11,sikkim,3,SOUTH,0,,0, ,1100, ,0.850742903,0.021185182,sikkim
+3615,1,11,sikkim,1,NORTH,29,kabi_lungchuk(bl),1,SIKKIM,1101, ,0.464214399,0.007106188,sikkimkabi_lungchuk(bl)
+3616,0,11,sikkim,4,EAST,0,,0, ,1100, ,1.431481354,0.036265582,sikkim
+3619,1,11,sikkim,4,EAST,29,kabi_lungchuk(bl),1,SIKKIM,1101, ,0.336885421,0.002225022,sikkimkabi_lungchuk(bl)
+3620,1,11,sikkim,4,EAST,16,tumen-lingi(bl),1,SIKKIM,1101, ,0.482975899,0.006602113,sikkimtumen-lingi(bl)
+3621,1,11,sikkim,3,SOUTH,16,tumen-lingi(bl),1,SIKKIM,1101, ,0.210429656,0.001965428,sikkimtumen-lingi(bl)
+3643,1,11,sikkim,2,WEST,8,salghari-zoom_(sc),1,SIKKIM,1101, ,0.201962624,0.001314803,sikkimsalghari-zoom_(sc)
+3647,1,11,sikkim,3,SOUTH,8,salghari-zoom_(sc),1,SIKKIM,1101, ,0.101628919,0.000468604,sikkimsalghari-zoom_(sc)

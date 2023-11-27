@@ -4,8 +4,11 @@ data/**/*.*
 
 #Ignoring the writeups, results, etc except for the folder structure
 interns/**/*.*
+
 docs/**/*.*
 !docs/**/.gitkeep
+
+
 
 
 #Ignoring the pycache, venv and vscode cache
